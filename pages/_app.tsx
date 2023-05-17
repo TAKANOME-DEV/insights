@@ -1,4 +1,4 @@
-//Idea came from this repo: https://github.com/brookslybrand/next-nested-layouts
+// Idea came from this repo: https://github.com/brookslybrand/next-nested-layouts
 
 import "../styles/globals.css";
 import "react-loading-skeleton/dist/skeleton.css";
